@@ -1,0 +1,21 @@
+# SpaceInvader Game
+## Description
+This is a Space Invader Single Player Computer Game.
+## Inspiration
+Computer games are gaining huge popularity in recent times. Moreover python provides an easy way to create effective games using its libraries such as pygame,turtle etc.
+## Technolpogy Used
+* Python
+* Pygame Module
+## Editor Used
+* Visual Code Studio
+## Steps to run
+* Clone the project
+* Install Python(version specified in runtime.txt)
+* Install all the dependancies from requirements.txt
+* Run app.py file
+## Sample Output
+![image](https://user-images.githubusercontent.com/91466704/171983298-ee80cc9f-e321-474f-be46-5f9547758e3a.png)
+![image](https://user-images.githubusercontent.com/91466704/171983327-e9f8c631-5fe8-444f-8b69-5fb2d9628924.png)
+## Future Scope
+This game can be modified to make it a multiplayer game.
+
