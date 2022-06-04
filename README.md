@@ -1,6 +1,6 @@
 # SpaceInvader Game
 ## Description
-This is a Space Invader Single Player Computer Game.
+This is a Space Invader Single Player Computer Game. It contains two variations, one is auto fire and other being manual fire.
 ## Inspiration
 Computer games are gaining huge popularity in recent times. Moreover python provides an easy way to create effective games using its libraries such as pygame,turtle etc.
 ## Technolpogy Used
